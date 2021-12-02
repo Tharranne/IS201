@@ -1,4 +1,4 @@
-/*Tharranne "Mini" Covington 11-29-2021*/ 
+/*Tharranne "Mini" Covington 12-2-2021*/ 
 
 .center {
     text-align: center;
@@ -9,6 +9,21 @@
      margin-right: auto;
      width: 50%;
    
+  }
+
+  .center2 {
+    text-align: center;
+    color: black; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 80%;
+   
+  }
+
+  .center3{
+      width:80%
   }
 
   .left1{

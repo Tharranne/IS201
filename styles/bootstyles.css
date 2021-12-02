@@ -40,6 +40,8 @@ border-style: dotted black ;
         text-align: center;
         border: 5px solid black;
         background-color: white;
+        margin-top:5px;
+        width:100vw;
 }
 
 .basic3{
@@ -75,3 +77,4 @@ border-style: dotted black ;
 
 .stopfloating{
     clear:both;
+}

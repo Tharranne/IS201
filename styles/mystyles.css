@@ -1,0 +1,85 @@
+/*Tharranne "Mini" Covington 11-29-2021*/ 
+
+.center {
+    text-align: center;
+    color: black; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+   
+  }
+
+  .left1{
+      text-align:left;
+
+  }
+
+  .img{
+      padding: 0px;
+      border: 70px black solid;
+  }
+
+  .background{
+    background-image: url("../images/blue background.jpg"); 
+    background-size: cover;
+    border: black;
+    border-style: dotted;
+    border-color: pink;
+
+}
+
+.border3{
+    
+    background-color: lightpink;
+    font-family: cursive;
+    font-size: 20px;
+    border: 5px solid black;
+}
+
+.border2{
+    border: 5px double;
+    
+}
+
+.borderp{
+    border: 5px double;
+    padding: 5px;
+    
+}
+
+.professional2 {
+    background-color: lightyellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    border: 5px solid black;
+}
+
+.fancy{
+    font-size: 30pt;
+    font-family: fantasy;
+    color: white; 
+    text-align: center;
+}
+.fancy2{
+    font-size: 20pt;
+    font-family: fantasy;
+    color: white; 
+    text-align: center;
+}
+
+.columnn{
+    float: left;
+    width: 50%;
+}
+
+.black0{
+    color: black
+}
+
+.border4{
+    border: 5px double;
+    background-color: white;
+    
+}
